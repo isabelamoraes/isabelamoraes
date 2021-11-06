@@ -1,6 +1,6 @@
 ### Olá, pessoal 👋
 
-🙋 Meu nome é Isabela e atuo como designer e desenvolvedora web e mobile.
+🙋 Meu nome é Isabela e atuo como desenvolvedora front-end.
 
 🎓 Sou formada em Informática para Internet (ETEC), graduada em Análise e Desenvolvimento de Sistemas (FATEC) e pós-graduada em Desenvolvimento de Aplicações para Dispositivos Móveis (IFSP).
 
